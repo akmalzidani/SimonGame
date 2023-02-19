@@ -2,6 +2,8 @@
  Simple Simon Game - HTML CSS Javascript
  dibuat dengan konsep sederhana penggunaan array Javascript
  
+ Live demo : https://akmalzidani.github.io/SimonGame/
+ 
  Game mengingat urutan warna
 
 Cara bermain :
